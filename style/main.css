@@ -36,7 +36,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0, .50),rgba(0,0,0, .50)100%), url('/img/Stranger Things.jpg');
+    background: url('/img/Stranger.jpg');
     height: 600px;
     background-size: cover;
     display: flex;
